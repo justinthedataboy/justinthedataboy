@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**justinthedataboy/justinthedataboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👋 Hi, I'm Justin Obi. I am a Blockchain/Software Engineer and Technical writer from Nigeria. I am currently exploring Cloud & DevOps.
+
+I want to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration.
 
 Here are some ideas to get you started:
 
