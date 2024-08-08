@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hi, I'm Justin David. I am a Data Scientist and Technical writer from Nigeria.I am currently exploring Blockcahain and cryptocurrency 
+👋 Hello, I'm Justin David. I am a Cyber security analyst, Data Scientist and Technical writer.I am currently exploring Blockcahain and cryptocurrency 
 analysis as well as Machine Learning .I want to collaborate on any great idea that can be developed with tech. I am open to internships and collaboration.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinthedataboy&show_icons=true)
