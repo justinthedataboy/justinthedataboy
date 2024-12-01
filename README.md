@@ -11,6 +11,13 @@ analysis as well as Machine Learning .I want to collaborate on any great idea th
 * 📈   Learning more about web 3, Blockchain Analysis and Forex trading.
 * 📊   I'm a Cyber Security analyst.
 
+    Tech Stack
+💻   Python R (Statistics) C++ Tensorflow
+🌐   HTML5 CSS Flask Canva
+🛢   MySQL SQL
+⚙️   Git GitHub
+🔧   Visual Studio Code RStudio Tableau Colab
+
 <!--
 Here are some ideas to get you started:
 
