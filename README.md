@@ -5,7 +5,7 @@ analysis as well as Machine Learning .I want to collaborate on any great idea th
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinthedataboy&show_icons=true)
 
 ### 👨🏻‍💻  About Me
-* 🤔   Actively learning Blockchain Analysis and Machine Learning.
+* 🤔   Actively learning Networking and how to apply Machine Learning to counter cyber threats.
 * 🎓   Studying Computer Engineering at Bells University of Technology.
 * 💼   Interned at Africinnovate as a Data Scientist and open to more.
 * 📈   Learning more about web 3, Blockchain Analysis and Forex trading.
