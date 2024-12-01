@@ -9,7 +9,7 @@ analysis as well as Machine Learning .I want to collaborate on any great idea th
 * 🎓   Studying Computer Engineering at Bells University of Technology.
 * 💼   Interned at Africinnovate as a Data Scientist and open to more.
 * 📈   Learning more about web 3, Blockchain Analysis and Forex trading.
-* 📊   I'm a Data Scientist .
+* 📊   I'm a Cyber Security analyst.
 
 <!--
 Here are some ideas to get you started:
