@@ -1,22 +1,28 @@
 ### Hi there 👋
-👋 Hello, I'm Justin David. I am a Cyber security analyst, Data Scientist and Technical writer.I am currently exploring Blockcahain and cryptocurrency 
-analysis as well as Machine Learning .I want to collaborate on any great idea that can be developed with tech. I am open to internships and collaboration.
+👋 Hello, I'm Justin David. I'm an Automation Developer (n8n) and Supply Chain Data Analyst passionate about building intelligent workflows that connect systems, reduce manual work, and drive better business decisions.
+
+I work at the intersection of AI, operations, and analytics, designing automation pipelines, dashboards, and data models that improve logistics, forecasting, and business processes. I'm always excited to collaborate on impactful tech projects and open to internships, contract roles, and partnerships.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinthedataboy&show_icons=true)
 
 ### 👨🏻‍💻  About Me
-* 🤔   Actively learning Networking and how to apply Machine Learning to counter cyber threats.
+* 🔄 Building automation workflows with n8n, APIs, and cloud tools
 * 🎓   Studying Computer Engineering at Bells University of Technology.
-* 💼   Interned at Africinnovate as a Data Scientist and open to more.
+* 📦 Exploring supply chain analytics, demand forecasting & process optimization
 * 📈   Learning more about web 3, Blockchain Analysis and Forex trading.
 * 📊   I'm a Cyber Security analyst.
 
-    Tech Stack
-💻   Python R (Statistics) C++ Tensorflow
-🌐   HTML5 CSS Flask Canva
-🛢   MySQL SQL
-⚙️   Git GitHub
-🔧   Visual Studio Code RStudio Tableau Colab
+### Tech Stack
+Automation & Data
+💻 Python · R · SQL · n8n · Pandas · TensorFlow
+Web & APIs
+🌐 Flask · HTML5 · CSS · REST APIs
+Databases
+🛢 MySQL · PostgreSQL
+Analytics & BI
+📊 Tableau · Google Colab · Forecasting Models
+Tools & DevOps
+⚙️ Git · GitHub · VS Code · RStudio
 
 <!--
 Here are some ideas to get you started:
